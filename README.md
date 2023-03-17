@@ -1,3 +1,3 @@
-Игра Mortal_Combat
+Игра Mortal Combat
 
 Для Запуска необходимо запустить Live Server
